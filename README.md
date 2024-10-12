@@ -9,9 +9,9 @@ The player will then find an extremely dirty river that's almost completely cont
 
 Finally the player exits the river and after walking for a but comes across a large factory emitting almost impossible anounts of greenhouse gases into the atmosphere. The player must fight the owner if the factory and destory it to save to planet from further damages.
 
-Controls:
-Enter - Start
-W - Jump
-A - Left
-D - Right
-Space - Attack
+Controls: 
+ Enter - Start
+ W - Jump
+ A - Left
+ D - Right
+ Space - Attack
