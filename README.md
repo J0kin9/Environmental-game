@@ -3,7 +3,7 @@ Single player video game in which the player would go through multiple levels fi
 
 These levels consist of the player going through a small platformer before arriving at the boss fight for that level.
 
-The first level takes place in a forest. The player is there to prevent a lumberjack from destroying the trees and forest fires from spreading.
+The first level takes place in a forest. The player is there to prevent a businessman from destroying the trees and forest fires from spreading.
 
 The player will then find an extremely dirty river that's almost completely contaminated with oil, sewage, and waste. The player must jump in and destroy the boss inside the river to clean it. 
 
